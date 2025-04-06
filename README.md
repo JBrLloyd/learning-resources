@@ -1,4 +1,4 @@
-# Learning Resources
+# Software Learning Resources
 
 ## Career Guidance
 
